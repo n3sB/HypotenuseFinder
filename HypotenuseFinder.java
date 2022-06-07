@@ -1,3 +1,5 @@
+package HypotenuseFinder;
+
 import java.util.Scanner;
 
 public class HypotenuseFinder {
